@@ -1,7 +1,7 @@
 # Multinetwork-Trading-Bots
 
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Trading__Sniping_bot_0"></a>Trading &amp; Sniping bot</h1>
-<h3> The only official telegram chat for this bot is at https://t.me/multinetwork_trading_bots, click the link to open it, if you search it, there might me similar channels or groups which are scam. Our group has 150+ members, make sure to check also that. The devs and admins are <a href="http://t.me/Maaz_02">Maaz</a> & <a href="http://t.me/Voidcoder"> VoidCode </a></h3>
+<h3> The only official telegram chat for this bot is at https://t.me/multinetwork_trading_bots, click the link to open it, if you search it, there might be similar channels or groups which are scam. Our group has 150+ members, make sure to check also that. The devs and admins are <a href="http://t.me/Maaz_02">Maaz</a> & <a href="http://t.me/Voidcoder"> VoidCode </a></h3>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="Supported_networks_2"></a>Supported networks</h2>
 <ul>
 <li class="has-line-data" data-line-start="3" data-line-end="5">Binance Smart chain</br>
